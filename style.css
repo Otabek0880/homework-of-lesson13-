@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  padding-top: 100px;
+  margin: 0px auto;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 43px;
+
+  text-align: center;
+
+  color: #363940;
+}
+.p {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+
+  text-align: center;
+
+  color: #95a1bb;
+  padding-top: 20px;
+  margin: 0px auto;
+}
+table th,
+td {
+  width: 241px;
+  height: 52px;
+  border: 1px solid #e1e5ee;
+}
+table {
+  padding-top: 40px;
+  margin: 0px auto;
+}
+table td {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  padding-left: 20px;
+  color: #95a1bb;
+}
+table th {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+
+  text-align: center;
+
+  color: #363940;
+}
+tbody td {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+
+  color: #363940;
+}
